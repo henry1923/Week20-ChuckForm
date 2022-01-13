@@ -1,0 +1,8 @@
+C:\Users\opilane\source\repos\Titpe21\ChuckConsole\ChuckForm\bin\Debug\netcoreapp3.1\ChuckForm.exe
+C:\Users\opilane\source\repos\Titpe21\ChuckConsole\ChuckForm\obj\Debug\netcoreapp3.1\ChuckForm.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\ChuckConsole\ChuckForm\obj\Debug\netcoreapp3.1\ChuckForm.Form1.resources
+C:\Users\opilane\source\repos\Titpe21\ChuckConsole\ChuckForm\obj\Debug\netcoreapp3.1\ChuckForm.Properties.Resources.resources
+C:\Users\opilane\source\repos\Titpe21\ChuckConsole\ChuckForm\obj\Debug\netcoreapp3.1\ChuckForm.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Titpe21\ChuckConsole\ChuckForm\obj\Debug\netcoreapp3.1\ChuckForm.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\ChuckConsole\ChuckForm\obj\Debug\netcoreapp3.1\ChuckForm.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\ChuckConsole\ChuckForm\obj\Debug\netcoreapp3.1\ChuckForm.csproj.CoreCompileInputs.cache
